@@ -1,1 +1,1 @@
-https://richpanel-assignment-fb.netlify.app/
+https://fb-helpdesk-one.vercel.app/login
